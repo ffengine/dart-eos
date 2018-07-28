@@ -1,0 +1,7 @@
+name: DartForEOS
+description: Dart demo project for generation private/public key for eos blockchain.
+
+dependencies:
+  crypto: any
+  pointycastle: "^1.0.0-rc2"
+  base58check: any
